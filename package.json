@@ -1,0 +1,13 @@
+{
+  "name": "mini-amd-and-concat-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mini-amd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
